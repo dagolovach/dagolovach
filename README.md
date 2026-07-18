@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dmitry Golovach 👋</h1>
 
-<!--
-**dagolovach/dagolovach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Automation & Platform Engineer</b> · San Francisco, CA<br/>
+  I build automation and internal tools that simplify complex operations.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://dmitrygolovach.com">Website</a> ·
+  <a href="https://linkedin.com/in/dmitrygolovach">LinkedIn</a> ·
+  <a href="mailto:Dmitry.Golovach@outlook.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I do
+
+15+ years in enterprise networking and security (dual **CCIE**), now focused on the software, workflows, and tools that make complex operational work easier for humans.
+
+Most recently I built an internal automation & observability platform that:
+
+- consolidates data from a dozen disconnected systems (ServiceNow, Jira, ClearPass, Palo Alto, Arista CloudVision, network devices) into one place
+- powers self-service workflows, live dashboards, and NOC observability
+- embeds **GenAI** for alert triage, management summaries, and troubleshooting
+- runs multi-region and serverless on **AWS** (Fargate + Lambda) with **Redis**, across dev/test/prod stages, migrated from a self-hosted Docker/HashiCorp stack
+
+> My rule of thumb: if a task happens frequently or on a schedule, it should be automated.
+
+### 🧰 Tech I work with
+
+**Languages:** Python (primary) · TypeScript (AWS CDK) · Bash · YAML
+**Cloud & IaC:** AWS (Fargate, Lambda, CDK) · Redis · Terraform · Ansible · Docker
+**Data & observability:** NetBox · Grafana · Prometheus / Thanos · Slack API · REST APIs
+**AI:** LLM-assisted triage, summarization, and troubleshooting copilots
+**Domain I automate:** networking & security — BGP/OSPF, SD-WAN, Cisco/Arista, Palo Alto, ISE/ClearPass
+
+### 📌 Focus areas
+
+`automation` · `internal-tools` · `infrastructure-as-code` · `chatops` · `observability` · `genai-for-ops`
+
+### 📫 Reach me
+
+[dmitrygolovach.com](https://dmitrygolovach.com) · [LinkedIn](https://linkedin.com/in/dmitrygolovach) · Dmitry.Golovach@outlook.com
