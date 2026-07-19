@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dmitry Golovach 👋</h1>
 
 <p align="center">
-  <b>Automation & Platform Engineer</b> · San Francisco, CA<br/>
+  <b>Automation & Platform Engineer</b> · Denver, CO<br/>
   I build automation and internal tools that simplify complex operations.
 </p>
 
