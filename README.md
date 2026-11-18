@@ -1,6 +1,6 @@
 # Dmitry Golovach
 
-Principal engineer, 2× CCIE. I design AI agents that are safe to let act, measure what they save, and write it down.
+Principal engineer, 2× CCIE. I build and test AI agents, measure what they save, and write it down.
 
 **Building in public**
 
